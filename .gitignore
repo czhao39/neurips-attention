@@ -2,3 +2,8 @@
 .ipynb_checkpoints
 __pycache__/
 venv/
+
+*/NN_recognition_data
+*/pretrained_models
+*/ANN_recognition_*
+*/plots

@@ -146,4 +146,4 @@ You can download pretrained models using these links (details are provided in th
 
 ## ANN Recognition Experiments
 
-Corresponding to Section 6 in the paper, `create_ANN_recognition_data.ipynb` generates the masked and unmasked images for the ANN recognition experiments, `run_nn_recognition.sh` runs the recognition experiments, and `analyze_ANN_recognition_data.ipynb` analyzes the results of the experiments.
+[`section_6`](section_6/) includes the ANN recognition experiments corresponding to Section 6 in the paper.
